@@ -1,0 +1,30 @@
+{
+    "frontMatter.content.autoUpdateDate": true,
+    "[markdown]": {
+        "editor.fontSize": 14,
+        "editor.lineHeight": 26,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 64,
+        "editor.lineNumbers": "off",
+        "editor.quickSuggestions": false,
+        "editor.minimap.enabled": false
+    },
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "blog",
+            "path": "[[workspace]]/content/en/blog"
+        },
+        {
+            "title": "contributors",
+            "path": "[[workspace]]/content/en/contributors"
+        },
+        {
+            "title": "docs",
+            "path": "[[workspace]]/content/en/docs"
+        },
+        {
+            "title": "images",
+            "path": "[[workspace]]/images"
+        }
+    ]
+}
