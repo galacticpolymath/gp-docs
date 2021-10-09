@@ -4,12 +4,40 @@
 $body-font: 'Montserrat', sans-serif;
 $serif: 'Lora', serif;
 
+$gp-black: #363636;
+$atomic-blue: #6812D1;
+$atomic-blue-hl: #9F4BFF;
+$lightgray: #65696d;
+
 body{
     font-family: $body-font;
-    font-weight: normal;
+    font-weight: 300;
+    color: $gp-black;
 }
 
 h1, h2, h3, h4, h5, h6{
     font-family: $body-font;
     font-weight: 500;
+    color: $gp-black;
+}
+
+a{
+    color: $atomic-blue;
+    :hover{
+        color: $atomic-blue-hl !important;
+        text-decoration: none !important;
+    }
+}
+
+.avatar-title{
+ color: $gp-black;
+ font-size: 1.0em;
+ font-family: $serif;
+}
+.avatar-links{
+    font-size: 0.75em;
+    font-family: $serif;
+    p a{
+        font-style: normal;
+        }
 }
