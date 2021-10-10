@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Docs & Blog"
+title = "GP Docs & Blog"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "About Galactic Polymath and how to use our site"
+description = "Galactic Polymath blog posts and documentation. Learn about who we are and how we do."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -25,8 +25,8 @@ mainSections = ["blog", "docs"]
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
+schemaName = "Galactic Polymath Documentation"
+schemaAuthor = "Matt Wilkins"
 schemaAuthorTwitter = "https://twitter.com/mattwilkinsbio"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/mattwilkinsphd/"
 schemaAuthorGitHub = "https://github.com/drwilkins"
