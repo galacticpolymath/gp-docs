@@ -3,9 +3,9 @@ title: "Say hello to Doks \U0001F44B"
 description: 'Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.'
 lead: 'Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.'
 date: 2020-11-04T08:19:42.000Z
-lastmod: '2021-10-08T16:08:31.413Z'
+lastmod: '2021-10-09T23:45:03.314Z'
 draft: false
-weight: 50
+weight: 10
 images:
     - say-hello-to-doks.png
 contributors:
@@ -15,6 +15,8 @@ Testing functionality.
 ![this is a thing](say-hello-to-doks.png)
 
 “According to a new Senate report, former President Trump directly asked the Justice Department on nine separate occasions to overturn the 2020 election. Nine? Was he in the back seat of the car? [Imitating Trump] ‘Will you overturn the election?’ ‘No!’ ‘Will you overturn the election?’ ‘No!’” — SETH MEYERS
+blah fjfj
+
 
 “Trump really thought he could get away with throwing out the vote. He told people at the D.O.J., ‘You guys aren’t following the internet the way I do,’ which I assume means they aren’t Googling ‘Mushroom penis normal?’ over and over again.” — JIMMY KIMMEL
 

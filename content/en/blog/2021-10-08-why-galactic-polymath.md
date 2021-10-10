@@ -5,7 +5,8 @@ date: null
 preview: null
 draft: null
 tags: null
-categories: null
-lastmod: '2021-10-08T19:37:07.799Z'
+weight: 100
+categories: blog
+lastmod: '2021-10-09T22:12:09.100Z'
 ---
 

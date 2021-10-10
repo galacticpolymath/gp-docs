@@ -3,7 +3,7 @@ title: FAQ
 description: Answers to frequently asked questions.
 lead: Answers to frequently asked questions.
 date: 2020-10-06T08:49:31.000Z
-lastmod: '2021-10-08T16:13:15.782Z'
+lastmod: '2021-10-10T03:51:12.884Z'
 draft: false
 images: []
 menu:
@@ -15,7 +15,7 @@ toc: true
 
 ## Hyas?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+Doks is a [blog]({{<ref "blog/say-hello-to-doks">}}) build by the creator of Hyas.
 
 ## Footer notice?
 
