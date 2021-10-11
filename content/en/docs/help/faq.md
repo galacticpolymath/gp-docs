@@ -3,7 +3,7 @@ title: FAQ
 description: Answers to frequently asked questions.
 lead: Answers to frequently asked questions.
 date: 2020-10-06T08:49:31.000Z
-lastmod: '2021-10-10T03:51:12.884Z'
+lastmod: '2021-10-11T20:01:16.923Z'
 draft: false
 images: []
 menu:
@@ -32,6 +32,7 @@ Please keep it in place.
 
 - [Netlify](https://docs.netlify.com/)
 - [Hugo](https://gohugo.io/documentation/)
+
 
 ## Can I get support?
 

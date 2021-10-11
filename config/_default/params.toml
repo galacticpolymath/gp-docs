@@ -10,17 +10,17 @@ description = "Galactic Polymath blog posts and documentation. Learn about who w
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["gp_logo.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "docs.galacticpolymath.com"
+titleHome = "GP Docs & Blog"
 
 ## Twitter Cards
 twitterSite = "@galacticPM"
 twitterCreator = "@mattwilkinsbio"
 
 # Search
-mainSections = ["blog", "docs"]
+mainSections = ["blog", "client-docs","teacher-docs]
 
 ## JSON-LD
 # schemaType = "Person"
@@ -31,7 +31,7 @@ schemaAuthorTwitter = "https://twitter.com/mattwilkinsbio"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/mattwilkinsphd/"
 schemaAuthorGitHub = "https://github.com/drwilkins"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "gp_logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
@@ -70,8 +70,8 @@ alertDismissable = true
 alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
-docsRepoBranch = "master"
+docsRepo = "https://github.com/galacticpolymath/gp-docs"
+docsRepoBranch = "main"
 editPage = false
 
 [options]
@@ -86,4 +86,4 @@ editPage = false
   kaTex = false
   collapsibleSidebar = true
   multilingualMode = false
-  docsVersioning = false
+  docsVersioning = true
