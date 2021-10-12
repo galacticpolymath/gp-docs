@@ -1,8 +1,7 @@
 /** Import Bootstrap functions */
 @import "bootstrap/scss/functions";
 
-/** Import theme variables */
-@import "common/variables";
+
 
 /** Import Bootstrap */
 @import "bootstrap/scss/bootstrap";
@@ -17,6 +16,9 @@
 /** Add ./assets/scss/whatever to front of modified scss files to get them to propagate**/
 
 // customized styling files
+/** Import theme variables */
+@import "./assets/scss/common/variables";
+
 @import "./assets/scss/common/fonts";
 @import "./assets/scss/common/dark";
 @import "./assets/scss/common/global";
@@ -38,7 +40,6 @@
 @import "components/search";
 @import "components/tables";
 @import "layouts/footer";
-@import "layouts/header";
 @import "layouts/pages";
 @import "layouts/posts";
 @import "layouts/sidebar";

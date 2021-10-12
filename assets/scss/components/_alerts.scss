@@ -3,6 +3,7 @@
   font-size: $font-size-sm;
   padding-top: 0.6rem;
   padding-bottom: 0.6rem;
+  margin-bottom: 0;
 }
 
 .alert-icon {
@@ -54,6 +55,8 @@
   align-items: center;
   text-align: left;
   background-color: $gp-black;
+  border: none;
+  border-radius: 0;
   a{
     color: $sparkle-white;
     }
