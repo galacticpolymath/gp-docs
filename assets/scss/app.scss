@@ -1,7 +1,8 @@
 /** Import Bootstrap functions */
 @import "bootstrap/scss/functions";
 
-
+// *Important* Custom variables must be imported EARLY! 
+@import "./assets/scss/common/variables";
 
 /** Import Bootstrap */
 @import "bootstrap/scss/bootstrap";
@@ -17,12 +18,10 @@
 
 // customized styling files
 /** Import theme variables */
-@import "./assets/scss/common/variables";
 
 @import "./assets/scss/common/fonts";
 @import "./assets/scss/common/dark";
 @import "./assets/scss/common/global";
-@import "./assets/scss/common/variables";
 
 @import "./assets/scss/components/alerts";
 @import "./assets/scss/components/images";
