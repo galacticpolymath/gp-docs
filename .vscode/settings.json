@@ -42,8 +42,7 @@
             },
             {
               "name": "date",
-              "type": "datetime",
-              "value": "{{ dateFormat '2006-12-31' .date }}"
+              "type": "datetime"
             },
             {
               "name": "preview",

@@ -16,16 +16,21 @@
 /** Import theme styles */
 /** Add ./assets/scss/whatever to front of modified scss files to get them to propagate**/
 
-@import "./assets/common/fonts";
-@import "common/global";
-@import "common/dark";
-@import "components/alerts";
+// customized styling files
+@import "./assets/scss/common/fonts";
+@import "./assets/scss/common/dark";
+@import "./assets/scss/common/global";
+@import "./assets/scss/common/variables";
+
+@import "./assets/scss/components/alerts";
+@import "./assets/scss/components/images";
+
+// default styling of parent project
 @import "components/buttons";
 @import "components/code";
 @import "components/syntax";
 @import "components/comments";
 @import "components/forms";
-@import "./assets/scss/components/images";
 @import "components/mermaid";
 @import "components/search";
 @import "components/tables";

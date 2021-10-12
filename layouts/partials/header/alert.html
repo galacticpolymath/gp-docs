@@ -1,0 +1,17 @@
+{{ if .Site.Params.alertDismissable -}}
+  <div id="announcement" class="alert alert-primary alert-dismissible fade show d-none text-lg-center" role="alert">
+    {{ .Site.Params.alertText | safeHTML }}
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  </div>
+{{ else -}}
+  <div class="alert alert-primary text-left" role="alert" style="">
+    <img src="/gp_bubble_logo.png" style="max-height: 30px;object-fit: contain;">
+    <span class="alert-primary">
+    <a href="https://www.galacticpolymath.com">
+      <!-- <circle cx="12" cy="12" r="10"></circle> -->
+      <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><polyline points="12 8 8 12 12 16"></polyline><line x1="16" y1="12" x2="8" y2="12"></line></svg> 
+    {{ .Site.Params.alertText | safeHTML }}
+    </a>
+  </span>
+  </div>
+{{ end -}}

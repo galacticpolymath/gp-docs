@@ -4,10 +4,6 @@
 $body-font: 'Montserrat', sans-serif;
 $serif: 'Lora', serif;
 
-$gp-black: #363636;
-$atomic-blue: #6812D1;
-$atomic-blue-hl: #9F4BFF;
-$lightgray: #65696d;
 
 body{
     font-family: $body-font;
@@ -21,13 +17,13 @@ h1, h2, h3, h4, h5, h6{
     // color: $gp-black;
 }
 
-a{
-    color: $atomic-blue;
-    :hover{
-        color: $atomic-blue-hl !important;
-        text-decoration: none !important;
-    }
-}
+// a{
+//     color: $atomic-blue;
+//     :hover{
+//         color: $atomic-blue-hl !important;
+//         text-decoration: none !important;
+//     }
+// }
 
 .avatar-title{
  color: $gp-black;
