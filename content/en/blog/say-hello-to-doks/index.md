@@ -3,7 +3,7 @@ title: "Say hello to Doks \U0001F44B"
 description: 'Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.'
 lead: 'Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.'
 date: 2020-11-04T08:19:42.000Z
-lastmod: '2021-10-09T23:45:03.314Z'
+lastmod: '2021-10-12T15:48:51.706Z'
 draft: false
 weight: 10
 images:
@@ -29,6 +29,8 @@ blah fjfj
 “But that’s how close we came. Trump tried every avenue he could think of: the courts, the states, the vice president, the Justice Department. He’s like the guy in gridlock traffic who keeps switching lanes, and then throws his hands up when it doesn’t work.” — SETH MEYERS
 
 {{< vimeo id="146022717"  style="width: 100vw" title="My vimeo video" >}}
+
+{{< youtube id="w0HgHet0sxg">}}
 
 
 
